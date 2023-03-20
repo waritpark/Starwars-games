@@ -62,5 +62,3 @@ else
     // affichage d'une erreur si l'utilisateur n'a pas rempli sa date de naissance
     Console.WriteLine("Erreur ! fin du programme");
 }
-
-// fonction Extract qui permet de récuperer le nombre de caractères voulu dans une string
