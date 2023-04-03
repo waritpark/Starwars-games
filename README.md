@@ -1,6 +1,5 @@
 # Starwars-games
 Premier projet formation ajc
-<img alt="AppVeyor" src="https://img.shields.io/appveyor/build/waritpark/formation-ajc-dotnet-20032023">
 ![AppVeyor](https://img.shields.io/appveyor/build/waritpark/formation-ajc-dotnet-20032023)
 PROJET STARWARS GAME
 
@@ -19,4 +18,5 @@ Dézippez le et lancez le jeu en double cliquant sur le fichier "starwars-game.s
 
 Liens Gitlab :
 Lien du projet : https://gitlab.com/waritpark/formation-ajc-dotnet-20032023
+
 Lien du formateur : https://gitlab.com/devtobecurious
