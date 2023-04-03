@@ -21,7 +21,7 @@ J'ai fait ce jeu en dotnet car j'apprends ce langage.
 
 
 
-IMPORTANT !
+**IMPORTANT !**
 Ceci est la version 0.1, le jeu n'est pas fini.
 
 
