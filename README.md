@@ -35,3 +35,6 @@ Dézippez le et lancez le jeu en double cliquant sur le fichier "starwars-game.s
 ### Liens Gitlab : 
 
 <a href="https://gitlab.com/waritpark/formation-ajc-dotnet-20032023">Lien du projet</a>  /  <a href="https://gitlab.com/devtobecurious">Lien du formateur</a> 
+
+
+<!-- c'est plus joli sur github : https://github.com/waritpark/Starwars-games/blob/master/README.md -->
